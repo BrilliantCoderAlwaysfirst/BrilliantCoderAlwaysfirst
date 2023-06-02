@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Header](https://tenor.com/view/future-gaming-gif-22595648)]
+[![Header](https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif)]
 
 <!--
 **BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
