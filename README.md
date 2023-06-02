@@ -85,10 +85,10 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
 <br>
 <p align="center">
   <a href="https://github.com/BrilliantCoderAlwaysfirst">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=BrilliantCoderAlwaysfirst&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=BrilliantCoderAlwaysfirst&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
   <a href="https://github.com/BrilliantCoderAlwaysfirst">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrilliantCoderAlwaysfirst&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrilliantCoderAlwaysfirst&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
   <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=BrilliantCoderAlwaysfirst&theme=ambient-gradient" alt="BrilliantCoderAlwaysfirst" /></p>
@@ -97,9 +97,10 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
     [![GitHub Streak](https://streak-stats.demolab.com?user=BrilliantCoderAlwaysfirst&theme=ambient-gradient)](https://git.io/streak-stats)
   </p> -->
 </details>
+ 
   
-  
-  
+<!--   https://github-readme-stats.vercel.app/api?username=BrilliantCoderAlwaysfirst&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
+   ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=BrilliantCoderAlwaysfirst&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
   
   
 
