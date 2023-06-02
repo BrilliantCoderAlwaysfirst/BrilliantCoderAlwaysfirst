@@ -1,9 +1,16 @@
 <!-- ### Hi there 👋 -->
 
 [![Header](https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif)]
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
+
+
+
+
+
+
 
 <!--
 **BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
