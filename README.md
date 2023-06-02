@@ -13,10 +13,10 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Bachelor of Science in Computer Science Stream at <a href="http://www.jiwaji.edu/">Jiwaji University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Internship and Learning Bootcamp at  <a href="https://www.geekster.in/">Geetster</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Bachelor of Science in Computer Science Stream at <a href="http://www.jiwaji.edu/">Jiwaji University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-<h3>Little facts about me 🧑</h3> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h3>Little facts about me 🧑</h3> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" > 
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development.
@@ -29,7 +29,6 @@
 - - 📫 How to reach me: 
 
  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/BrilliantCoderAlwaysfirst) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.png" alt="twitter logo" width="34">](https://www.instagram.com/mohitverma614/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/telegram.png" alt="gitlab logo" width="24">](https://telegram.me/mohitvermacoder) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/mohit-verma-mern-developer/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mohitverma910933@gmail.com)
-|---|---|---|---|---|---|
 
 <!-- <br> -->
 
