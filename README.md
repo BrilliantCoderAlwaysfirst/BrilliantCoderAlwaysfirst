@@ -7,8 +7,15 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
-<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohit Verma</h1>
+<p align="center">
+  <a href="https://github.com/BrilliantCoderAlwaysfirst"><img src="https://readme-typing-svg.herokuapp.com?   lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
+
+
+
+<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
 
 
