@@ -91,9 +91,11 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrilliantCoderAlwaysfirst&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center">
+  <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=BrilliantCoderAlwaysfirst&theme=ambient-gradient" alt="BrilliantCoderAlwaysfirst" /></p>
+  
+<!--   <p align="center">
     [![GitHub Streak](https://streak-stats.demolab.com?user=BrilliantCoderAlwaysfirst&theme=ambient-gradient)](https://git.io/streak-stats)
-  </p>
+  </p> -->
 </details>
   
   
