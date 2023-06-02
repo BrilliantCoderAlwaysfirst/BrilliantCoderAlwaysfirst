@@ -1,9 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<!-- [![Header](https://tenor.com/view/future-gaming-gif-22595648)] -->
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![Header](https://tenor.com/view/future-gaming-gif-22595648)]
 
 <!--
 **BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
