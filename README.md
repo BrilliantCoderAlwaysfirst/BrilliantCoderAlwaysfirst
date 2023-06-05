@@ -3,7 +3,7 @@
 <!-- [![Header](https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif)] -->
 
 <p align="center" width:"500%">
-  <img src="https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif" width:"100%">
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width:"100%">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
