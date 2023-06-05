@@ -1,10 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!-- [![Header](https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif)] -->
-
-<!-- <p align="center" width:"70" height:"100">
-  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width:"100" height:"100">
-</p> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="900" height="450" />
 
