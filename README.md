@@ -57,9 +57,9 @@ const mohit = {
 };
 ```
 
-Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
+<!-- Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺 -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/BrilliantCoderAlwaysfirst/travellingWebsite">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrilliantCoderAlwaysfirst&repo=travellingWebsite" />
   </a>
@@ -72,6 +72,7 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
   <a href="https://github.com/BrilliantCoderAlwaysfirst/Doctor_dashboard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrilliantCoderAlwaysfirst&repo=Doctor_dashboard" />
   </a>
+ </p> -->
 
 
 ---
