@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif)] -->
 
-<p align="center" width:"100%">
+<p align="center" width:"200%">
   <img src="https://github.com/BrilliantCoderAlwaysfirst/BrilliantCoderAlwaysfirst/blob/main/future-gaming.gif" width:"100%">
 </p>
 
