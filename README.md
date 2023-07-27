@@ -123,7 +123,7 @@ const mohit = {
 
 <details open="">
 <summary>
- 📔 GitHub Stats:
+ 📔 GitHub Status:
 </summary>
 <br>
 <p align="center">
